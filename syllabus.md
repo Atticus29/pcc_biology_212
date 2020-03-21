@@ -1,8 +1,8 @@
 # BI212: Principles of Biology
 
-## CRN 11043
+## CRN 22825
 
-# Syllabus: Winter Quarter 2019
+# Syllabus: Spring Quarter 2020
 
 ## Portland Community College
  ---
@@ -11,13 +11,13 @@
 
 |Name|Office Location|Email|Emergency Email|
 |:---:|:---:|:---:|:---:|
-|Mark Fisher, PhD.|Bldg. 7 Rm. 202-13 A|mark.fisher3@pcc.edu|mark.aaron.fisher@gmail.com|
+|Mark Fisher, PhD.|Home office|mark.fisher3@pcc.edu|mark.aaron.fisher@gmail.com|
 
-Admin. Asst.: Susan Lipski, (971)722-7257 susan.lipski@pcc.edu
+Admin. Asst.: Susan Lipski, susan.lipski@pcc.edu
 
 ### Communication
 
-Check D2L every day for course content. Use your PCC account for email. DO NOT USE D2L email as it does not get forwarded to my PCC inbox. It is PCC policy that we are to use PCC email for electronic communication about schoolwork or other college related business. You may also leave me a note at the office drop box  in Bldg. 7/Rm. 202. I plan on checking my email daily. If you send me an important message and you don’t get a reply from me within two school days, please try again. It probably means I did not receive it. Please note that I won't accept as an excuse that email failed unless you are able to forward the message you sent.
+Check D2L every day for course content. Use your PCC account for email. DO NOT USE D2L email as it does not get forwarded to my PCC inbox. It is PCC policy that we are to use PCC email for electronic communication about schoolwork or other college related business. TODO You may also leave me a note at the office drop box  in Bldg. 7/Rm. 202. TODO I plan on checking my email daily. If you send me an important message and you don’t get a reply from me within two school days, please try again. It probably means I did not receive it. Please note that I won't accept as an excuse that email failed unless you are able to forward the message you sent.
 
 ---
 ## Course Info
@@ -39,28 +39,24 @@ BI 212 is a five credit hour course which meets seven hours per week for the qua
 
 - Campbell, Neil, and Jane Reece. **Biology** 11th ed. Benjamin/Cummings Publishing, Menlo Park, CA
 
-- We will also be using the MasteringBiology companion online as a component of your IHOP grade (see below). In addition to the required/assigned content, I strongly encourage you to take advantage of the myriad additional resources available in the online companion (e.g., practice problems). [Click here](https://docs.google.com/document/d/17yVWFe9zlXYtiq2JqQyJHAt_k1bVz5uFxi8Vl-Hjqe0/edit?usp=sharing) for instructions on setting up an account. The Course ID for this course is: **MBFISHER05546**. Please note that there is no 11th edition available for MasteringBiology, so we are using the 8th edition. If you have trouble accessing this from your 11th edition purchase, Pearson will be willing to give you access to the 8th edition if you get in touch with them.
+- TODO Morgan, Judith and Eloise Carter 2011. **Investigating Biology Laboratory Manual**, 9th ed. Benjamin/Cummings Publishing, Menlo Park, CA
 
-- Morgan, Judith and Eloise Carter 2011. **Investigating Biology Laboratory Manual**, 9th ed. Benjamin/Cummings Publishing, Menlo Park, CA
-
-- Access to a computer, printer, and the internet, including D2L course pages (the course and many assignments will largely be administered and/or managed via D2L). Several computer labs are available for students at all PCC campuses. (eg. library in Bldg 9, Student Learning Center, Bldg. 7, and Resources centers, 1st floor Bldg. 7).
+- Access to a computer and the internet, including D2L course pages (the course and many assignments will largely be administered and/or managed via D2L).
 
 #### Socrative
 
 - We will take advantage of a student response system called [Socrative](https://b.socrative.com/login/student/). The Room Name is **FISHER2070**. We will be using this tool to assess your (collective and personal) comprehension of topics in real time in the classroom. I'll be designing questions that I'll ask during lecture and lab and posting them to the room on Socrative. You'll be able to answer these questions from any browser or from the [ios or Android app](https://www.socrative.com/apps.html) downloaded onto your phone or tablet. If you can, please bring such a device to class every day. **If you are unable to do this, please let me know as soon as possible**.
 
+TODO Slack
 
 ### Strongly Recommended
 
-- Jump drive or cloud storage such as Google Drive
 - Calendar or day planner
 - Many students have found it very useful to keep a set of colored pencils or pens for various uses during lecture and lab class
 - _A Photographic Atlas for the Biology Laboratory_ Van de Graaf. 2007. Morton Publishing, Englewood, Colorado.
 
-
-
 ### Optional
-- Plan to access to other high-quality educational and library resources including those recommended in class and/or posted at D2L.- Goggles and gloves are provided in the lab, but if you prefer to use your own, please bring these. Note that you will need to wear gloves during the dissections labs.
+- Plan to access to other high-quality educational and library resources including those recommended in class and/or posted at D2L.
 
 ---
 
@@ -68,9 +64,9 @@ BI 212 is a five credit hour course which meets seven hours per week for the qua
 
 |Content Type|Room|Day(s)|Time|
 |:---:|:---:|:---:|:---:|
-|Lecture|Bldg. 7 Rm. 106|MW|5:00 PM-6:50 PM|
-|Lab|Bldg. 7 Rm. 125|W|7:00 PM-9:50 PM|
-|Office Hours|Bldg. 7 Rm. 202-13 A|M|3:50 PM - 4:50 PM or by Appointment; Either way, please always inform me of your plans to show up before showing up	|
+|Lecture|Remote until 4 May, 2020|MW|12:00 PM-1:50pm|
+|Lab|Remote until 4 May, 2020|M|2:30 PM-5:20 PM|
+|Office Hours|Remote until 4 May, 2020|W|10:40 AM - 11:40 AM or by Appointment; Either way, please always inform me of your plans to show up before showing up|
 ---
 
 ## Grade Breakdown
@@ -107,8 +103,8 @@ BI 212 is a five credit hour course which meets seven hours per week for the qua
 	- Unless otherwise announced, you will have a class period (1hr 50min) to take each exam. The format of each exam will include a combination of multiple-choice, matching, diagraming and short answer questions. Please take care of restroom needs before the exam; if you have to use the restroom, I will require you to leave your phone in my custody. If you arrive late to an exam, you will only have the time remaining to complete the exam. If you arrive to an exam so late that some people have finished, you will not be able to take the exam. If you have a cell phone out during an exam, it will be considered cheating.
 	- Students rarely have the chance to ruminate on past answers and consider potential mistakes, which is a shame, because it's a great learning tool. Thus, upon completion of the exam, you will have the opportunity to re-take the exam with a partner with open notes and open internet. You will have _one week_ to turn in your "what I should have said" (WISHeS) exam. You won't have access to your original answers until after you've turned in your WISHeS exam. **10% of the difference between your score on this version and your original score will be added to your original score**.
 - *Laboratory*
-    - Biology 212 is a laboratory science class. Therefore, you cannot pass the class without passing the lab portion.  If a student earns less than 60% in the lab, he or she will receive an F for the class regardless of his or her score in lecture. Students who have more than 2 lab absences will receive an F for the class. 
-    - Students who fail to follow safety requirements (eg. bring food/drink into the lab, wearing open toed shoes, not wearing gloves or goggles when required) will receive one warning.  If the violation cannot be immediately rectified (eg. wearing open-toed shoes) and poses a significant safety risk, the student might be required to refrain from participating in certain lab activities and will lose points accordingly. 
+    - Biology 212 is a laboratory science class. Therefore, you cannot pass the class without passing the lab portion.  If a student earns less than 60% in the lab, he or she will receive an F for the class regardless of his or her score in lecture. Students who have more than 2 lab absences will receive an F for the class.
+    - Students who fail to follow safety requirements (eg. bring food/drink into the lab, wearing open toed shoes, not wearing gloves or goggles when required) will receive one warning.  If the violation cannot be immediately rectified (eg. wearing open-toed shoes) and poses a significant safety risk, the student might be required to refrain from participating in certain lab activities and will lose points accordingly.
     - If you are unable to attend lab as scheduled, you have one option for making up the missed lab: attend the other Rock Creek campus BI212 lab class during the same week. To do this, contact the other lab instructor ahead of time to obtain permission. Inform me of this plan, then attend the lab session, take the quiz, and participate as a student in that session the same week. You may do this one time only during the term. If you do not attend lab during a given week, it is considered to be a lab absence and you will receive a zero for that quiz, and you will lose participation points.  
     - The laboratory session is the part of class where you learn by direct observation and by asking questions, designing experiments, handling biological and chemical material, and using equipment. Note that this course includes undergraduate research that will encourage students to practice science by doing science. This will include, but not be limited to, researching primary literature, designing experiments, making collaborative decisions, using instrumentation, conducting peer review, analyzing data, and writing in a specific scientific style.
     - *Lab Exercises and Participation* Reading, studying, and preparing for activities before you come to class is vital for success in the course, and part of this will involve communication with peers outside of class time. You are expected to perform the lab work cooperatively with your group. In addition to the written materials, you will also be graded on preparedness, participation, safety compliance, cleanliness, and teamwork with your group. After the lab quiz, I will let you know what is required for your participation grade that week. You will lose points if you are late or leave without checking in with me. Thus, it is very much in your interest to be fully engaged, work at an appropriate pace, and leave only when your work is done. Generally, I will ask you some questions, look over written work, and will “sign off” on your work at the end of each lab period as a record of your participation. Sometimes, you may have written work to submit. I will announce this at the beginning of a given lab, but you should also be able to check D2L for occasional supplemental handouts. Your lab participation scores will be earned from successful completion of these tasks.
@@ -116,7 +112,7 @@ BI 212 is a five credit hour course which meets seven hours per week for the qua
     - Look for the prompt on D2L and ask questions as needed to ensure that you understand the requirements.
 - *Lab quizzes*
     - There will be a quiz each Wednesday at the beginning of lab. Quizzes will cover the previous lab activities and will **also include questions that refer to the current lab activities**. The best way to earn quiz points is to make sure that you are able to discuss and explain the lab activity’s goals, independent and dependent variables, background, methods used, and results before you leave each lab session. The focus of these quizzes is on **comprehension** rather than memorization, but knowledge of terms and organism names introduced in the lab protocol or handout are also essential. Please work cooperatively with your group to answer the lab manual study questions at the end of each unit to ensure you understood everything in that unit. The lab manual answers will not be submitted and graded. Instead, the quiz will be used to assess how much you learned; these are done alone. **Read and study each lab activity before you do it**. Use your textbook as a resource if you need additional information to support your study of the lab concepts. You will have the first 10-15 minutes of lab time to complete the quiz. If you are late, you will only have the time remaining to complete it, and if you are more than ten minutes late, you cannot take the quiz. There will be no make-up lab quizzes except as part of a complete makeup lab attendance as described in the Attendance section. The lowest quiz grade will be dropped.
--*Cat Genetics Assignment* 
+-*Cat Genetics Assignment*
 	– This is a project that you will begin during the first lab period.  You will work as a team to perform the ongoing experiment over the following two weeks, and will use the data you collected when we get to the topic of population genetics during lecture. This will require coordinating work and communication done outside of class time to collect data and perform various activities.
 
 ### Grade template
