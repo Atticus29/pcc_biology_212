@@ -20,6 +20,16 @@ Admin. Asst.: Susan Lipski, susan.lipski@pcc.edu
 Check D2L every day for course content. Use your PCC account for email. DO NOT USE D2L email as it does not get forwarded to my PCC inbox. It is PCC policy that we are to use PCC email for electronic communication about schoolwork or other college related business. TODO You may also leave me a note at the office drop box  in Bldg. 7/Rm. 202. TODO I plan on checking my email daily. If you send me an important message and you don’t get a reply from me within two school days, please try again. It probably means I did not receive it. Please note that I won't accept as an excuse that email failed unless you are able to forward the message you sent.
 
 ---
+
+## Class Times and Locations
+
+|Content Type|Room|Day(s)|Time|
+|:---:|:---:|:---:|:---:|
+|Lecture|Remote until 4 May, 2020|MW|12:00 PM-1:50pm|
+|Lab|Remote until 4 May, 2020|M|2:30 PM-5:20 PM|
+|Office Hours|Remote until 4 May, 2020|W|10:40 AM - 11:40 AM or by Appointment; Either way, please always inform me of your plans to show up before showing up|
+---
+
 ## Course Info
 
 Second part of a three quarter sequence designed for students majoring in biology and the sciences, including pre-medical, pre-dental, chiropractic, pharmacy, and related fields. Topics include inheritance, the genetic code, modern and classical genetics, evolution, diversity, and systematics.Recommended: High school biology and chemistry within the past seven years.
@@ -58,15 +68,6 @@ TODO Slack
 ### Optional
 - Plan to access to other high-quality educational and library resources including those recommended in class and/or posted at D2L.
 
----
-
-## Class Times and Locations
-
-|Content Type|Room|Day(s)|Time|
-|:---:|:---:|:---:|:---:|
-|Lecture|Remote until 4 May, 2020|MW|12:00 PM-1:50pm|
-|Lab|Remote until 4 May, 2020|M|2:30 PM-5:20 PM|
-|Office Hours|Remote until 4 May, 2020|W|10:40 AM - 11:40 AM or by Appointment; Either way, please always inform me of your plans to show up before showing up|
 ---
 
 ## Grade Breakdown
@@ -140,6 +141,10 @@ Please use the following [grading spreadsheet](https://docs.google.com/spreadshe
 ### Lab
 
 Please note that the order of the labs doesn't necessarily follow the order of their occurrence in the lab manual!
+
+A *living* version of the lab schedule can be found [here](https://docs.google.com/spreadsheets/d/1lDoGvZlIAXzuDOBRbc7qdTrJZ6RqBq-TsUkufcoK5DY/edit?usp=sharing). Please refer to this version for the course.
+
+TODO
 
 |Date (Monday)|Week|Topics (Wed) |Reading Due Upon Start of Lab|In Class Assignment|Graded Items Due Upon Start of Wednesday Lab (unless otherwise specified)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
