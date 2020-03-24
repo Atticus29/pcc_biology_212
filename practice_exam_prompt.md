@@ -2,7 +2,7 @@
 
 ## Prompt
 
-In an effort to give you practice answering mutliple-choice questions related to the material on each of the three Exams preceding the final exam, but more importantly to give you practice with the arguably more useful cognitive skill of _writing_ good multiple-choice exam questions, you'll be asked to construct a practice exam as a class and then later take the practice exam individually as a low-stakes IHOP assignment. There will be one crowd-generated practice exam for each exam, and the due dates for the questions and for the actual completed practice exam are in [the schedule](https://github.com/Atticus29/pcc_biology_211/blob/master/README.md).
+In an effort to give you practice answering mutliple-choice questions related to the material on each of the three Exams preceding the final exam, but more importantly to give you practice with the arguably more useful cognitive skill of _writing_ good multiple-choice exam questions, you'll be asked to construct a practice exam as a class and then later take the practice exam individually as a low-stakes IHOP assignment. There will be one crowd-generated practice exam for each exam, and the due dates for the questions and for the actual completed practice exam are in [the schedule](https://docs.google.com/spreadsheets/d/1zthLSm1GVVM2TEOyFqgmX5YwQ9CPvjyba1ohwKk0etc/edit?usp=sharing).
 
 To receive full credit for each crowd-generated practice exam, each student is asked to add one **multiple-choice** question **from each chapter** covered in the exam to the google doc (on D2L). Questions must stem directly from the learning objectives lists for each chapter. After everybody has completed this step, each student will be asked to then **take the practice exam individually**.
 
@@ -25,9 +25,11 @@ To receive full credit for each crowd-generated practice exam, each student is a
 
 ## Assignment Credit and Due Dates
 
-Question submissions for Crowd-Sourced Practice Exams are worth **TODO points each**, for a total of **TODO points for the question-writing portion** of the assignment. All **questions must be submitted by the due date noted on the [course schedule](TODO)**.
+Question submissions for Crowd-Sourced Practice Exams are worth **20 points each**. All **questions must be submitted by the due date noted on the [course schedule](https://docs.google.com/spreadsheets/d/1zthLSm1GVVM2TEOyFqgmX5YwQ9CPvjyba1ohwKk0etc/edit?usp=sharing)**.
 
-Your personal submission is due the subsequent week by (**see [course schedule](TODO) for exact date**). You are welcome to take the practice exam open-book and open-internet, but **_not open-classmate_.**
+Your personal submission is due the subsequent week. **See [course schedule](https://docs.google.com/spreadsheets/d/1zthLSm1GVVM2TEOyFqgmX5YwQ9CPvjyba1ohwKk0etc/edit?usp=sharing) for exact date**. You are welcome to take the practice exam open-book and open-internet, but **_not open-classmate_.**
+
+ The assignment is worth a cumulative total of **30 points for the question-writing portion and exam-taking portion combined**.
 
 
 ## Instructor checklist
