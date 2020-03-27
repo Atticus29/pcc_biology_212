@@ -25,11 +25,11 @@ To receive full credit for each crowd-generated practice exam, each student is a
 
 ## Assignment Credit and Due Dates
 
-Question submissions for Crowd-Sourced Practice Exams are worth **20 points each**. All **questions must be submitted by the due date noted on the [course schedule](https://docs.google.com/spreadsheets/d/1zthLSm1GVVM2TEOyFqgmX5YwQ9CPvjyba1ohwKk0etc/edit?usp=sharing)**.
+Question submissions for Crowd-Sourced Practice Exams are worth **10 points each**. All **questions must be submitted by the due date noted on the [course schedule](https://docs.google.com/spreadsheets/d/1zthLSm1GVVM2TEOyFqgmX5YwQ9CPvjyba1ohwKk0etc/edit?usp=sharing)**.
 
-Your personal submission is due the subsequent week. **See [course schedule](https://docs.google.com/spreadsheets/d/1zthLSm1GVVM2TEOyFqgmX5YwQ9CPvjyba1ohwKk0etc/edit?usp=sharing) for exact date**. You are welcome to take the practice exam open-book and open-internet, but **_not open-classmate_.**
+Your personal submission is due the subsequent week. Each practice exam submission is worth **5 pts.**. **See [course schedule](https://docs.google.com/spreadsheets/d/1zthLSm1GVVM2TEOyFqgmX5YwQ9CPvjyba1ohwKk0etc/edit?usp=sharing) for exact date**. You are welcome to take the practice exam open-book and open-internet, but **_not open-classmate_.**
 
- The assignment is worth a cumulative total of **30 points for the question-writing portion and exam-taking portion combined**.
+The assignment is worth a cumulative total of **15 points for the question-writing portion and exam-taking portion combined**.
 
 
 ## Instructor checklist
