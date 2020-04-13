@@ -43,8 +43,6 @@ Prerequisites: BI 211 C or above or instructor approval.
 
 BI 212 is a five credit hour course which meets seven hours per week for the quarter – four hours of lecture and three hours of lab. Lecture and lab sections are linked. This means students must register and attend both as listed above. It is fully transferable.
 
-TODO pass lab to pass course prose here?
-
 ---
 
 ## Instruction Materials
@@ -100,12 +98,13 @@ In anticipation of students occasionally being unable to attend lecture/lab duri
 |Exams|Exams will be based upon the guided learning that is expected to take place during the lectures, with support of this learning taking place though a variety of other means, including textbook reading, class activities, laboratory exercises, supplementary reading, online assignments, and more. There will be 3 regular exams. Your lowest score of these 3 exams will be dropped. **More details below.** 2 @ 150 pts. each|300 pts.|D2L (where specifically TBD TODO)|
 |Final Exam|The final exam will have the same format, with questions that ask you to use, remember, and consider all course material, with about 25% emphasis on the material covered after Exam 3. You must take the final exam to pass the class. **You may not drop your final exam score. More details below**.|200 pts.|In class|
 |Biology Study Skills|These assignments are designed to help you learn methods to help you succeed in this class and in future classes. Please see [here](https://docs.google.com/document/d/1BJzu8JL40SsISjllJoKX2XeN8wpTlBPbdQACadnhVMg/edit?usp=sharing) for more information. 2 @ 10 pts. each. |20 pts.|D2L|
-|"In-class" assignments, homework, online assignments, and participation (IHOP)|In order to promote active learning and to practice applying what you’re learning, there will be homework and "in-class" assignments throughout the term. **More details below**. 200 pts. (100 pts. participation [including Socrative], 2 x practice exam @15 pts. each (10 for writing questions, 5 for your score on the practice exam),lowest of three practice exam totals dropped, 40 pts. for assignments, group work, and homework assigned during lectures)|170 pts.|In class for Socrative and hand-written acitvities, on MasteringBiology for online Pearson assignments|
+|"In-class" assignments, homework, online assignments, and participation (IHOP)|In order to promote active learning and to practice applying what you’re learning, there will be homework and "in-class" assignments throughout the term. **More details below**. 200 pts. (100 pts. participation [including Socrative], 2 x practice exam @15 pts. each (10 for writing questions, 5 for your score on the practice exam),lowest of three practice exam totals dropped, 40 pts. for assignments, group work, and homework assigned during lectures)|170 pts.|In class for Socrative and/or on D2L for activities during class|
+|Discussions 5 @ 5 pts. each|See additional details [here](https://docs.google.com/document/d/1BZCGXynQiokuKJZb7B4dfp5Mm-pH_LlKVSj_KLo0K48/edit?usp=sharing)|25 pts.|Submitted in the discussion tab on D2L|
 |Lab assignments 9 @ 5 pts. each|See additional details below|45 pts.|In lab, often with a submitted component on D2L|
-|Lab quizzes 8 @ 10 pts. each, lowest of 8 dropped|See additional details below|70 pts.|Submitted as Google Form or as D2L Quizzes TBD TODO|
-|Laboratory Practical Exam|See description below|60 pts.|To be administered online format TBD TODO|
+|Lab quizzes 8 @ 10 pts. each, lowest of 8 dropped|See additional details below|70 pts.|Submitted as Google Form|
+|Laboratory Practical Exam|See description below|60 pts.|To be administered online format TBD. TODO|
 |Scientific Research Project|See description on D2L|100 pts.|Submitted component on D2L|
-|**Total Points**|---|**965 pts.**|
+|**Total Points**|---|**990 pts.**|
 
 ### Additional details about graded materials
 - **Exams**
@@ -120,6 +119,9 @@ In anticipation of students occasionally being unable to attend lecture/lab duri
 	- In anticipation of students occasionally being unable to attend lecture/lab during the designated course hours due to the remote nature of this quarter's course and the likely chaos of our daily lives during the pandemic, I plan on leaving a version of the socrative questions in "open navigation" mode between lecture sessions. Students who miss class time but answer those questions will still receive participation credit.
 
 	- In the weeks coming up to the exams, you will also be asked to generate practice exams as a class and then take them. The points for these assignments will also be considered IHOP points. **Because of the time-sensitive nature of these practice exams, no late credit can be awarded**. See the [practice exam prompt here](https://github.com/Atticus29/pcc_biology_212/blob/master/practice_exam_prompt.md).
+- **Discussions**
+	- See additional details [here](https://docs.google.com/document/d/1BZCGXynQiokuKJZb7B4dfp5Mm-pH_LlKVSj_KLo0K48/edit?usp=sharing)
+
 - **Laboratory**
 
     - Biology 212 is a laboratory science class. Therefore, you cannot pass the class without passing the lab portion. If a student earns less than 60% in the lab, he or she will receive an F for the class regardless of his or her score in lecture. Students who have more than 2 lab absences will receive an F for the class.
@@ -140,7 +142,7 @@ In anticipation of students occasionally being unable to attend lecture/lab duri
 	- **Read and study each lab activity before you do it**. Use your textbook as a resource if you need additional information to support your study of the lab concepts. The lowest quiz grade will be dropped.
 
 - **Lab Practical**
-	- Details TDB TODO
+	- This is a very challenging lab exam where you will be asked to identify specimens and structures, apply your knowledge and answer questions about topics you studied throughout the term. A study guide and a PowerPoint presentation to supplement your lab manual will be posted early on during the term
 
 ---
 ## Course Schedule
