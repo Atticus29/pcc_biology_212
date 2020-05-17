@@ -103,6 +103,7 @@ In anticipation of students occasionally being unable to attend lecture/lab duri
 |Lab assignments 9 @ 5 pts. each|See additional details below|45 pts.|In lab, often with a submitted component on D2L|
 |Lab quizzes 8 @ 10 pts. each, lowest of 8 dropped|See additional details below|70 pts.|Submitted as Google Form|
 |Laboratory Practical Exam|See description below|60 pts.|To be administered online format TBD. TODO|
+|Scientific Research Project Peer Review| 5 points for submitting a paper in suitable shape for peer review and 5 points for submitting helpful feedback for other students' paper(s) |10 pts.|Submitted component on D2L|
 |Scientific Research Project|See description on D2L|100 pts.|Submitted component on D2L|
 |**Total Points**|---|**990 pts.**|
 
